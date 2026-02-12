@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+I'm Learning github basics as part of Rippling's Interneer's Lab!
